@@ -1,0 +1,37 @@
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.47);
+  color: white;
+}
+
+.overlay h1 {
+  font-size: 50px;
+}
+
+.carousel-item img {
+  filter: grayscale(0.8);
+}
+
+.logo-img {
+  width: 50%;
+}
+.card-img-top {
+  height: 200px !important;
+  object-fit: cover;
+}
+
+@media (min-width: 768px) {
+  .logo-img {
+    width: 20%;
+  }
+}
+
+.carouselExampleIndicators carousel-item img {
+  padding: 10%;
+  margin-bottom: 20%;
+}
