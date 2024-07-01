@@ -20,6 +20,10 @@
 .logo-img {
   width: 50%;
 }
+
+.card {
+  border: none;
+}
 .card-img-top {
   height: 200px !important;
   object-fit: cover;
