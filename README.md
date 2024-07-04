@@ -6,4 +6,5 @@ Aqui podes nombrar y linkear las librerias que utilizaste.
 
 
 1. [Bootstrap v5](https://getbootstrap.com/)
-2. CSS  
+2. CSS
+3. HTML
